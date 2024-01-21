@@ -132,7 +132,7 @@ function SetUp()
                 </div>
                 <div className='subright'>
                     <div className='subbtn'>
-                            <button className='planbtn'> America Funds Forms</button>
+                            <button className='planbtn'> America Funds Forms </button>
                             
                         </div>
                 </div>
