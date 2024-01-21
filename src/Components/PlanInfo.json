@@ -1,0 +1,27 @@
+[
+    {
+        "id": 81,
+        "planId": 34,
+        "clientName": "Trilia",
+        "prospectivePlanNumber": "9376-856",
+        "einNumber": "30-4322615",
+        "institution": "Vidoo",
+        "groupOffice": "Caozhen",
+        "planType": "vestibulum",
+        "trustEin": "87-1703691",
+        "subInstitution": "Chatterpoint",
+        "complianceAnalyst": "Adler Collicott",
+        "secondaryCaseload": true,
+        "gwg": true,
+        "gwgServices": "nulla",
+        "gwgWorkTracking": "mi pede malesuada",
+        "gwgFollowUpEmail": true,
+        "planYearEnd": "2019-02-09T00:00:00.000Z",
+        "planTier": "Tier 2",
+        "irsPlanType": "001",
+        "marketSegment": "Consumer Services",
+        "ppsExternal": true,
+        "jumbo401k": false,
+        "peakPilotPlan": true
+    }
+]

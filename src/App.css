@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+.btn1{
+  color: white;
+  background-color: black;
+  margin-left: 3px;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 5px 10px;
+}
+
+table {
+  width: 800px;
+  height: 200px;
+  border-collapse: collapse;
+}
+
+th {
+  border-bottom: 1px solid black;
+  border: 2px solid black;
+}
+
+td {
+  text-align: center;
+  border: 2px solid black;
+}
+.table1{
+  margin:auto;
+}
+.searchPlanPage{
+ display: flex;
+ justify-content: space-between;
+ padding: 5px 40px;
+ 
+}
+.plan_info1{
+  position: absolute;
+  left: 4%;
+  top: 30%;
+}
+

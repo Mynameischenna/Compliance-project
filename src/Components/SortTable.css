@@ -1,0 +1,22 @@
+.modal{
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    margin: auto;
+    top: 20%;
+    left: 35%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    padding: 16px;
+}
+.modalButton
+{
+    position: absolute;
+    top: 85%;
+    left: 85%;
+    color: white;
+    background-color: red;
+    border: none;
+    padding: 6px;
+    border-radius: 6px;
+}

@@ -1,0 +1,113 @@
+.body{}
+.header1{
+    width: 100%;
+    height: 80px;
+    padding-top: 13px;
+    border-bottom: 1px solid black;
+    
+    
+}
+
+
+.leftmenu{
+    position: absolute;
+    left: 0%;
+    top: 30%;
+    
+    width: 180px;
+    height: auto;
+}
+.side1{
+    width:180px;
+    height: 200px;
+    border: 1px solid;
+}
+.side2{
+    width:180px;
+    height: 200px;
+    border: 1px solid;
+}
+
+.planname{
+    height: 40px;
+    border: 1px solid;
+
+}
+.rightmenu{
+    border: 1px solid;
+    position: absolute;
+    left: 20%;
+    right: 0;
+    height: 450px;
+    
+}
+.row1{
+    display: flex;
+    justify-content: space-evenly;
+    /* justify-content: left; */
+    border: 1px solid;
+    margin: 20px;
+    background-color: rgb(208, 208, 238);
+}
+.planbtn{
+    padding:5px 10px;
+    color: white;
+    background-color: rgb(82, 144, 236);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.head1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 15px;
+    
+    
+}
+
+.sub0{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+.sub01{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 70%;
+    
+}
+.side1{
+    overflow: scroll;
+}
+
+/* -------------------------------------SET UP CSS----------------- */
+.rightmenuSU{
+    border: 1px solid;
+    position: absolute;
+    left: 20%;
+    right: 0;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px;
+    
+    
+}
+.subright{
+    display: flex;
+    justify-content: left;
+
+}
+.setupinput{
+    margin-right: 5px;
+}
+.subbtn{
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    padding: 5px 5px;
+    
+}
+
