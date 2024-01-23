@@ -11,24 +11,36 @@
 
 .leftmenu{
     position: absolute;
-    left: 0%;
-    top: 30%;
-    
-    width: 180px;
+    left: 2%;
+    top: 31%;
+    width: 200px;
     height: auto;
+    /* border: 1px solid; */
 }
 .side1{
-    width:180px;
+    width:200px;
     height: 200px;
-    border: 1px solid;
+    /* border: 1px solid; */
+    margin-bottom: 20px;
+    background-color: azure;
 }
 .side2{
-    width:180px;
-    height: 200px;
-    border: 1px solid;
+    width:200px;
+    height: 250px;
+    /* border: 1px solid; */
+    background-color: bisque;
 }
-
+.side1style{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content:left;
+    background-color: none;
+    
+}
 .planname{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     height: 40px;
     border: 1px solid;
 
@@ -36,18 +48,22 @@
 .rightmenu{
     border: 1px solid;
     position: absolute;
-    left: 20%;
+    left: 21%;
     right: 0;
-    height: 450px;
+    height: 550px;
+    padding: 10px;
     
 }
 .row1{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: left;
     /* justify-content: left; */
-    border: 1px solid;
-    margin: 20px;
-    background-color: rgb(208, 208, 238);
+    /* border: 1px solid; */
+    margin: 5px;
+    
+}
+.row11{
+    margin-right: 20px;
 }
 .planbtn{
     padding:5px 10px;
