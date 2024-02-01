@@ -73,6 +73,28 @@
     border-radius: 10px;
     cursor: pointer;
 }
+.modal1{
+    
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    border: 1px solid black;
+    background: linear-gradient(rgb(235, 212, 212),rgb(241, 241, 209));
+    
+}
+.modal1 li{
+    list-style: none;
+    cursor: pointer;
+}
+.modalbtn{
+    color: white;
+    background-color: rgb(245, 32, 32);
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin-right: -800px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
 .head1{
     display: flex;
     align-items: center;

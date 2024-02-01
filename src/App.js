@@ -17,6 +17,7 @@ import PlanInfo from './Components/Testing';
 import Testing from './Components/Testing';
 import Home from './Components/Home';
 import SetUp from './Components/SetUp';
+import Trail from './Components/Trail';
 
 
 
@@ -28,7 +29,7 @@ function App() {
   return (
     
     <div className="App">
-     
+     {/* <Trail/> */}
      <Routes>
        <Route path="/" element={<SearchPlan/>}></Route>
        <Route path="/planTable" element={<PlanTable/>}/>
